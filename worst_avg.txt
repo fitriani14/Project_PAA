@@ -1,0 +1,6 @@
+n,Worst Case (us),Average Case (us),First Array Status
+100,3.70,9.28,Non-Unique
+150,3.40,10.21,Non-Unique
+200,8.80,13.21,Non-Unique
+250,5.60,17.14,Non-Unique
+300,6.20,14.23,Non-Unique
